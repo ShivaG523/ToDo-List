@@ -17,7 +17,7 @@
 
 ### *Features to be added*:
 
-Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributing to this repository.
+
 
 * SubTasks: Adding subtasks to the enlisted tasks, could be an option.
 * Neumorphic Interface: For the to-do's so, it looks more appealing, Can use SASS (.scss file)
@@ -35,13 +35,7 @@ Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributin
 * For help with CSS: [CSS Tricks](https://css-tricks.com/)
 * For more CSS effects: [text-effects](https://speckyboy.com/underline-text-effects-css/)
 * For Type Writing effects: [Type-effects](https://usefulangle.com/post/85/css-typewriter-animation)
-* For Local Storage: [Web Dev Simplified Blog](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/)
-
-# *Contributions*
-
-- All contributors are most welcome! This is definitely open source!
-- View the [`CONTRIBUTING.md`](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTING.md) for further instructions, requirements/dependencies & local project setup instructions!
-- All the contributors to this repository can be found in the [`CONTRIBUTORS.md`](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTORS.md) file!
+* For Local Storage: [Web Dev Simplified Blog](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage
 
 ## *WEBSITE DEMO*
 
