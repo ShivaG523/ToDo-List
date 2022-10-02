@@ -62,14 +62,14 @@ body {
 .theme-selector {
     border: 1px solid #d1dae3;
     border-radius: 100%;
-    height: 35px;
+    height: 37px;
     margin: 0 8px;
     transition: tranform 150ms ease-in-out, box-shadow 200ms ease-in-out;
-    width: 35px;
+    width: 37px;
 }
 
 .theme-selector:hover { 
-    box-shadow: white 0 0 8px;
+    box-shadow: white 0 0 9px;
     cursor: pointer;
 }
 
@@ -95,9 +95,9 @@ body {
     white-space: pre;
     overflow: hidden;     
     letter-spacing: 0.20rem;
-    margin-top: 50px;
-    margin-bottom: 20px;
-    max-width: 480px;
+    margin-top: 54px;
+    margin-bottom: 22px;
+    max-width: 450px;
   }
   
   /* Animation */
@@ -139,8 +139,8 @@ form {
 }
 
 form input {
-    padding: 10px;
-    font-size: 17px;
+    padding: 12px;
+    font-size: 19px;
     border: none;
     outline: none;
     /* border-radius: 15; */
